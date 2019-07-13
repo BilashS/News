@@ -1,0 +1,21 @@
+#btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tablink{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 50px;
+}
+.tablink:hover {
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+.news-descriptions{
+    padding: 20px;
+    text-align: center;
+
+}
